@@ -1,9 +1,12 @@
 * {
-    background-color: bisque;
+    background-color: #a2d2d6;
 }
 #hero-section {
     font-family: "Poppins", sans-serif;
+    color: rgba(225, 3, 3, 0.831);
 }
 .h3 {
-    color: #333333;
+    text-align: center;
+    font-style: italic;
+    margin-top: 50px;
 }
