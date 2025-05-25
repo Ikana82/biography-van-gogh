@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #151719;
+    background-color: #06071b;
     color: #222;
 }
 
@@ -15,7 +15,6 @@ main {
     background-color: #fff;
     border-radius: 8px;
     overflow: hidden;
-    padding: 4px
 }
 
 .hero {
@@ -106,6 +105,7 @@ h4 {
     max-width: 450px;
     border-radius: 8px;
     float: right;
+    margin: 2%;
 }
 
 .biography {
@@ -218,7 +218,7 @@ h2 {
     margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 30px;
-    font-size: 20px;
+    font-size: 18px;
     color: #1f1fa3;
     font-style: italic;
 }
@@ -292,11 +292,38 @@ h2 {
     text-decoration: none;
 }
 
+.preview {
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-bottom: 5%;
+}
+
+.journey-content {
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    margin-bottom: 4%;
+}
+
+.journey-img{
+    display: flex;
+}
+
+.journey-img img {
+    max-width: 200px;
+    border-radius: 8px;
+}
+
+
 footer {
     text-align: center;
-    background-color: #4b0082;
+    background-color: #06071b;
     color: #fff;
     padding: 10px;
+    margin: 4px;
+    border-radius: 0px 0px 8px 8px;
 }
 
 footer nav a {
