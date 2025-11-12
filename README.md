@@ -21,7 +21,7 @@ Anda bisa melihat pratinjau proyek ini secara langsung atau menjalankannya secar
 
 - **[Lihat Pratinjau (via Google Drive)](https://drive.google.com/file/d/1kJqadWbTekcWrHlqYV69ccdcLonz67JJ/view?usp=sharing)**
 
-* **Live Demo GitHub Pages:** `https://ikana82.github.io/biography-van-gogh/`
+- **[Live Demo GitHub Pages:](https://ikana82.github.io/biography-van-gogh/)**
 
 ### 2. Menjalankan Secara Lokal
 
